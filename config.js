@@ -69,7 +69,7 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'atacama-sdo',
+          layer: 'atacama-r-l',
           opacity: 0
         },
         {
@@ -321,7 +321,7 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'atacama-sdo',
+          layer: 'atacama-r-l',
           opacity: 0
         },
         {
@@ -574,7 +574,7 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'atacama-sdo',
+          layer: 'atacama-r-l',
           opacity: 0
         },
         {
@@ -826,7 +826,7 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'atacama-sdo',
+          layer: 'atacama-r-l',
           opacity: 0
         },
         {
@@ -1078,7 +1078,7 @@ var config = {
           opacity: 1
         },
         {
-          layer: 'atacama-sdo',
+          layer: 'atacama-r-l',
           opacity: 1
         },
         {
@@ -1330,7 +1330,7 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'atacama-sdo',
+          layer: 'atacama-r-l',
           opacity: 0
         },
         {
@@ -1582,7 +1582,7 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'atacama-sdo',
+          layer: 'atacama-r-l',
           opacity: 0
         },
         {
@@ -1834,7 +1834,7 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'atacama-sdo',
+          layer: 'atacama-r-l',
           opacity: 0
         },
         {
@@ -2086,7 +2086,7 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'atacama-sdo',
+          layer: 'atacama-r-l',
           opacity: 0
         },
         {
@@ -2338,7 +2338,7 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'atacama-sdo',
+          layer: 'atacama-r-l',
           opacity: 0
         },
         {
@@ -2590,7 +2590,7 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'atacama-sdo',
+          layer: 'atacama-r-l',
           opacity: 0
         },
         {
@@ -2842,7 +2842,7 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'atacama-sdo',
+          layer: 'atacama-r-l',
           opacity: 0
         },
         {
@@ -3094,7 +3094,7 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'atacama-sdo',
+          layer: 'atacama-r-l',
           opacity: 0
         },
         {
@@ -3347,7 +3347,7 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'atacama-sdo',
+          layer: 'atacama-r-l',
           opacity: 0
         },
         {
@@ -3599,7 +3599,7 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'atacama-sdo',
+          layer: 'atacama-r-l',
           opacity: 0
         },
         {
