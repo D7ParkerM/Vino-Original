@@ -29,173 +29,221 @@ var config = {
           opacity: 1
         },
         {
-          layer: 'arica',
+          layer: 'arica-sr-m',
           opacity: 0
         },
         {
-          layer: 'tarapaca',
+          layer: 'arica-sdo',
           opacity: 0
         },
         {
-          layer: 'tarapaca-comuna-label',
+          layer: 'arica-sr-l',
           opacity: 0
         },
         {
-          layer: 'tarapaca-comuna-border',
+          layer: 'tarapaca-sr-m',
           opacity: 0
         },
         {
-          layer: 'arica-comuna-label',
+          layer: 'tarapaca-sdo',
           opacity: 0
         },
         {
-          layer: 'arica-comuna-border',
+          layer: 'tarapaca-sr-l',
           opacity: 0
         },
         {
-          layer: 'antofagasta-comuna-label',
+          layer: 'antofagasta-sr-m',
           opacity: 0
         },
         {
-          layer: 'antofagasta-comuna-border',
+          layer: 'antofagasta-sdo',
           opacity: 0
         },
         {
-          layer: 'antofagasta',
+          layer: 'antofagasta-sr-l',
           opacity: 0
         },
         {
-          layer: 'atacama-comuna-label',
+          layer: 'atacama-sr-m',
           opacity: 0
         },
         {
-          layer: 'atacama-comuna-border',
+          layer: 'atacama-sdo',
           opacity: 0
         },
         {
-          layer: 'atacama',
+          layer: 'atacama-sr-l',
           opacity: 0
         },
         {
-          layer: 'coquimbo-comuna-label',
+          layer: 'coquimbo-sr-m',
           opacity: 0
         },
         {
-          layer: 'coquimbo-comuna-border',
+          layer: 'coquimbo-sdo',
           opacity: 0
         },
         {
-          layer: 'coquimbo',
+          layer: 'coquimbo-sr-l',
           opacity: 0
         },
         {
-          layer: 'metropolitana-comuna-label',
+          layer: 'coquimbo-r-l',
           opacity: 0
         },
         {
-          layer: 'metropolitana-comuna-border',
+          layer: 'valparaiso-sr-m',
           opacity: 0
         },
         {
-          layer: 'metropolitana',
+          layer: 'valparaiso-sr-l',
           opacity: 0
         },
         {
-          layer: 'valparaiso-comuna-label',
+          layer: 'valparaiso-r-l',
           opacity: 0
         },
         {
-          layer: 'valparaiso-comuna-border',
+          layer: 'valparaiso-sdo',
           opacity: 0
         },
         {
-          layer: 'valparaiso',
+          layer: 'valparaiso-z-l',
           opacity: 0
         },
         {
-          layer: 'maule-comuna-label',
+          layer: 'valparaiso-z-m',
           opacity: 0
         },
         {
-          layer: 'maule-comuna-border',
+          layer: 'metropolitana-sr-m',
           opacity: 0
         },
         {
-          layer: 'maule',
+          layer: 'metropolitana-sdo',
           opacity: 0
         },
         {
-          layer: 'ohiggins-comuna-label',
+          layer: 'metropolitana-sr-l',
           opacity: 0
         },
         {
-          layer: 'ohiggins-comuna-border',
+          layer: 'metropolitana-r-l',
           opacity: 0
         },
         {
-          layer: 'ohiggins',
+          layer: 'ohiggins-sr-m',
           opacity: 0
         },
         {
-          layer: 'biobio-comuna-label',
+          layer: 'ohiggins-sr-l',
           opacity: 0
         },
         {
-          layer: 'biobio-comuna-border',
+          layer: 'ohiggins-r-l',
           opacity: 0
         },
         {
-          layer: 'biobio',
+          layer: 'ohiggins-sdo',
           opacity: 0
         },
         {
-          layer: 'maule-comuna-label',
+          layer: 'ohiggins-z-l',
           opacity: 0
         },
         {
-          layer: 'maule-comuna-border',
+          layer: 'ohiggins-z-m',
           opacity: 0
         },
         {
-          layer: 'maule',
+          layer: 'maule-sr-m',
           opacity: 0
         },
         {
-          layer: 'lagos-comuna-label',
+          layer: 'maule-sr-l',
           opacity: 0
         },
         {
-          layer: 'lagos-comuna-border',
+          layer: 'maule-r-l',
           opacity: 0
         },
         {
-          layer: 'lagos',
+          layer: 'maule-sdo',
           opacity: 0
         },
         {
-          layer: 'rios-comuna-label',
+          layer: 'maule-z-l',
           opacity: 0
         },
         {
-          layer: 'rios-comuna-border',
+          layer: 'maule-z-m',
           opacity: 0
         },
         {
-          layer: 'rios',
+          layer: 'biobio-sr-m',
           opacity: 0
         },
         {
-          layer: 'araucania-comuna-label',
+          layer: 'biobio-sdo',
           opacity: 0
         },
         {
-          layer: 'araucania-comuna-border',
+          layer: 'biobio-sr-l',
           opacity: 0
         },
         {
-          layer: 'araucania',
+          layer: 'biobio-r-l',
           opacity: 0
         },
+        {
+          layer: 'araucania-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-r-l',
+          opacity: 0
+        },  
+        {
+          layer: 'rios-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-r-l',
+          opacity: 0
+        },  
+        {
+          layer: 'lagos-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-r-l',
+          opacity: 0
+        },         
         {
           layer: 'izquierdo-verde-label',
           opacity: 1
@@ -225,39 +273,227 @@ var config = {
       },
       onChapterEnter: [
         {
-          layer: 'arica',
-          opacity: 1
-        },
-        {
-          layer: 'arica-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'arica-comuna-border',
-          opacity: 1
-        },
-        {
-          layer: 'tarapaca-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'tarapaca-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'tarapaca',
-          opacity: 0
-        },
-        {
-          layer: 'regiones-vino',
-          opacity: 0
-        },
-        {
           layer: 'izquierdo-blanco-label',
           opacity: 0
         },
         {
           layer: 'derecho-blanco-label',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sr-m',
+          opacity: 1
+        },
+        {
+          layer: 'arica-sdo',
+          opacity: 1
+        },
+        {
+          layer: 'arica-sr-l',
+          opacity: 1
+        },
+        {
+          layer: 'tarapaca-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-r-l',
           opacity: 0
         },
         {
@@ -267,15 +503,15 @@ var config = {
         {
           layer: 'derecho-verde-label',
           opacity: 0
-        },        
+        },
+        {
+          layer: 'regiones-vino',
+          opacity: 0
+        },
+
       ],
-      onChapterExit: 
-        [
-          {
-            layer: 'regiones-vino',
-            opacity: 1
-          },
-        ],
+      onChapterExit: [],
+
     },
     {
       id: 'Tarapaca',
@@ -290,43 +526,227 @@ var config = {
       },
       onChapterEnter: [
         {
-          layer: 'regiones-vino',
-          opacity: 0
-        },
-        {
-          layer: 'tarapaca-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'tarapaca-comuna-border',
-          opacity: 1
-        },
-        {
-          layer: 'tarapaca',
-          opacity: 1
-        },
-        {
-          layer: 'antofagasta-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'antofagasta-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'antofagasta',
-          opacity: 0
-        },
-        {
-          layer: 'arica',
-          opacity: 0
-        },
-        {
           layer: 'izquierdo-blanco-label',
           opacity: 0
         },
         {
           layer: 'derecho-blanco-label',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-m',
+          opacity: 1
+        },
+        {
+          layer: 'tarapaca-sdo',
+          opacity: 1
+        },
+        {
+          layer: 'tarapaca-sr-l',
+          opacity: 1
+        },
+        {
+          layer: 'antofagasta-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-r-l',
           opacity: 0
         },
         {
@@ -338,14 +758,9 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'arica-comuna-label',
+          layer: 'regiones-vino',
           opacity: 0
         },
-        {
-          layer: 'arica-comuna-border',
-          opacity: 0
-        },
-
 
       ],
       onChapterExit: [],
@@ -363,55 +778,227 @@ var config = {
       },
       onChapterEnter: [
         {
-          layer: 'regiones-vino',
-          opacity: 0
-        },
-        {
-          layer: 'antofagasta-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'antofagasta-comuna-border',
-          opacity: 1
-        },
-        {
-          layer: 'antofagasta',
-          opacity: 1
-        },
-        {
-          layer: 'atacama-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'atacama-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'atacama',
-          opacity: 0
-        },
-        {
-          layer: 'tarapaca-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'tarapaca-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'tarapaca',
-          opacity: 0
-        },
-        {
-          layer: 'arica',
-          opacity: 0
-        },
-        {
           layer: 'izquierdo-blanco-label',
           opacity: 0
         },
         {
           layer: 'derecho-blanco-label',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-m',
+          opacity: 1
+        },
+        {
+          layer: 'antofagasta-sdo',
+          opacity: 1
+        },
+        {
+          layer: 'antofagasta-sr-l',
+          opacity: 1
+        },
+        {
+          layer: 'atacama-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-r-l',
           opacity: 0
         },
         {
@@ -423,14 +1010,9 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'arica-comuna-label',
+          layer: 'regiones-vino',
           opacity: 0
         },
-        {
-          layer: 'arica-comuna-border',
-          opacity: 0
-        },
-
 
       ],
       onChapterExit: [],
@@ -448,67 +1030,227 @@ var config = {
       },
       onChapterEnter: [
         {
-          layer: 'regiones-vino',
-          opacity: 0
-        },
-        {
-          layer: 'atacama-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'atacama-comuna-border',
-          opacity: 1
-        },
-        {
-          layer: 'atacama',
-          opacity: 1
-        },
-        {
-          layer: 'coquimbo-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'coquimbo-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'coquimbo',
-          opacity: 0
-        },
-        {
-          layer: 'antofagasta-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'antofagasta-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'antofagasta',
-          opacity: 0
-        },
-        {
-          layer: 'tarapaca-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'tarapaca-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'tarapaca',
-          opacity: 0
-        },
-        {
-          layer: 'arica',
-          opacity: 0
-        },
-        {
           layer: 'izquierdo-blanco-label',
           opacity: 0
         },
         {
           layer: 'derecho-blanco-label',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-m',
+          opacity: 1
+        },
+        {
+          layer: 'atacama-sdo',
+          opacity: 1
+        },
+        {
+          layer: 'atacama-sr-l',
+          opacity: 1
+        },
+        {
+          layer: 'coquimbo-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-r-l',
           opacity: 0
         },
         {
@@ -520,14 +1262,9 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'arica-comuna-label',
+          layer: 'regiones-vino',
           opacity: 0
         },
-        {
-          layer: 'arica-comuna-border',
-          opacity: 0
-        },
-
 
       ],
       onChapterExit: [],
@@ -545,74 +1282,6 @@ var config = {
       },
       onChapterEnter: [
         {
-          layer: 'regiones-vino',
-          opacity: 0
-        },
-        {
-          layer: 'coquimbo-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'coquimbo-comuna-border',
-          opacity: 1
-        },
-        {
-          layer: 'coquimbo',
-          opacity: 1
-        },
-        {
-          layer: 'metropolitana-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'metropolitana-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'metropolitana',
-          opacity: 0
-        },
-        {
-          layer: 'valparaiso-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'valparaiso-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'valparaiso',
-          opacity: 0
-        },
-        {
-          layer: 'atacama-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'atacama-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'atacama',
-          opacity: 0
-        },
-        {
-          layer: 'antofagasta-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'antofagasta-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'antofagasta',
-          opacity: 0
-        },
-        {
-          layer: 'arica',
-          opacity: 0
-        },
-        {
           layer: 'izquierdo-blanco-label',
           opacity: 0
         },
@@ -621,6 +1290,222 @@ var config = {
           opacity: 0
         },
         {
+          layer: 'arica-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-m',
+          opacity: 1
+        },
+        {
+          layer: 'coquimbo-sdo',
+          opacity: 1
+        },
+        {
+          layer: 'coquimbo-sr-l',
+          opacity: 1
+        },
+        {
+          layer: 'coquimbo-r-l',
+          opacity: 1
+        },
+        {
+          layer: 'valparaiso-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-r-l',
+          opacity: 0
+        },
+        {
           layer: 'izquierdo-verde-label',
           opacity: 0
         },
@@ -629,22 +1514,9 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'arica-comuna-label',
+          layer: 'regiones-vino',
           opacity: 0
         },
-        {
-          layer: 'arica-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'izquierdo-verde-label',
-          opacity: 0
-        },
-        {
-          layer: 'derecho-verde-label',
-          opacity: 0
-        },
-
 
       ],
       onChapterExit: [],
@@ -662,86 +1534,6 @@ var config = {
       },
       onChapterEnter: [
         {
-          layer: 'regiones-vino',
-          opacity: 0
-        },
-        {
-          layer: 'valparaiso-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'valparaiso-comuna-border',
-          opacity: 1
-        },
-        {
-          layer: 'valparaiso',
-          opacity: 1
-        },
-        {
-          layer: 'metropolitana-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'metropolitana-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'metropolitana',
-          opacity: 0
-        },
-        {
-          layer: 'ohiggins-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'ohiggins-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'ohiggins',
-          opacity: 0
-        },
-        {
-          layer: 'coquimbo-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'coquimbo-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'coquimbo',
-          opacity: 0
-        },
-        {
-          layer: 'metropolitana-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'metropolitana-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'metropolitana',
-          opacity: 0
-        },
-        {
-          layer: 'tarapaca-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'tarapaca-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'tarapaca',
-          opacity: 0
-        },
-        {
-          layer: 'arica',
-          opacity: 0
-        },
-        {
           layer: 'izquierdo-blanco-label',
           opacity: 0
         },
@@ -750,11 +1542,219 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'arica-comuna-label',
+          layer: 'arica-sr-m',
           opacity: 0
         },
         {
-          layer: 'arica-comuna-border',
+          layer: 'arica-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-m',
+          opacity: 1
+        },
+        {
+          layer: 'valparaiso-sr-l',
+          opacity: 1
+        },
+        {
+          layer: 'valparaiso-r-l',
+          opacity: 1
+        },
+        {
+          layer: 'valparaiso-sdo',
+          opacity: 1
+        },
+        {
+          layer: 'valparaiso-z-l',
+          opacity: 1
+        },
+        {
+          layer: 'valparaiso-z-m',
+          opacity: 1
+        },
+        {
+          layer: 'metropolitana-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-r-l',
           opacity: 0
         },
         {
@@ -765,6 +1765,11 @@ var config = {
           layer: 'derecho-verde-label',
           opacity: 0
         },
+        {
+          layer: 'regiones-vino',
+          opacity: 0
+        },
+
       ],
       onChapterExit: [],
     },
@@ -781,43 +1786,227 @@ var config = {
       },
       onChapterEnter: [
         {
-          layer: 'regiones-vino',
+          layer: 'izquierdo-blanco-label',
           opacity: 0
         },
         {
-          layer: 'metropolitana-comuna-label',
+          layer: 'derecho-blanco-label',
           opacity: 0
         },
         {
-          layer: 'metropolitana-comuna-border',
+          layer: 'arica-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-m',
           opacity: 1
         },
         {
-          layer: 'metropolitana',
+          layer: 'metropolitana-sdo',
           opacity: 1
         },
         {
-          layer: 'ohiggins-comuna-label',
+          layer: 'metropolitana-sr-l',
+          opacity: 1
+        },
+        {
+          layer: 'metropolitana-r-l',
+          opacity: 1
+        },
+        {
+          layer: 'ohiggins-sr-m',
           opacity: 0
         },
         {
-          layer: 'ohiggins-comuna-border',
+          layer: 'ohiggins-sr-l',
           opacity: 0
         },
         {
-          layer: 'ohiggins',
+          layer: 'ohiggins-r-l',
           opacity: 0
         },
         {
-          layer: 'valparaiso-comuna-label',
+          layer: 'ohiggins-sdo',
           opacity: 0
         },
         {
-          layer: 'valparaiso-comuna-border',
+          layer: 'ohiggins-z-l',
           opacity: 0
         },
         {
-          layer: 'valparaiso',
+          layer: 'ohiggins-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-r-l',
           opacity: 0
         },
         {
@@ -829,37 +2018,10 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'tarapaca-comuna-label',
+          layer: 'regiones-vino',
           opacity: 0
         },
-        {
-          layer: 'tarapaca-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'tarapaca',
-          opacity: 0
-        },
-        {
-          layer: 'arica',
-          opacity: 0
-        },
-        {
-          layer: 'izquierdo-blanco-label',
-          opacity: 0
-        },
-        {
-          layer: 'derecho-blanco-label',
-          opacity: 0
-        },
-        {
-          layer: 'arica-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'arica-comuna-border',
-          opacity: 0
-        },
+
       ],
       onChapterExit: [],
     },
@@ -876,58 +2038,6 @@ var config = {
       },
       onChapterEnter: [
         {
-          layer: 'regiones-vino',
-          opacity: 0
-        },
-        {
-          layer: 'ohiggins-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'ohiggins-comuna-border',
-          opacity: 1
-        },
-        {
-          layer: 'ohiggins',
-          opacity: 1
-        },
-        {
-          layer: 'metropolitana-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'metropolitana-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'metropolitana',
-          opacity: 0
-        },
-        {
-          layer: 'maule-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'maule-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'maule',
-          opacity: 0
-        },
-        {
-          layer: 'valparaiso-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'valparaiso-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'valparaiso',
-          opacity: 0
-        },
-        {
           layer: 'izquierdo-blanco-label',
           opacity: 0
         },
@@ -936,6 +2046,222 @@ var config = {
           opacity: 0
         },
         {
+          layer: 'arica-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-m',
+          opacity: 1
+        },
+        {
+          layer: 'ohiggins-sr-l',
+          opacity: 1
+        },
+        {
+          layer: 'ohiggins-r-l',
+          opacity: 1
+        },
+        {
+          layer: 'ohiggins-sdo',
+          opacity: 1
+        },
+        {
+          layer: 'ohiggins-z-l',
+          opacity: 1
+        },
+        {
+          layer: 'ohiggins-z-m',
+          opacity: 1
+        },
+        {
+          layer: 'maule-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-r-l',
+          opacity: 0
+        },
+        {
           layer: 'izquierdo-verde-label',
           opacity: 0
         },
@@ -944,13 +2270,10 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'izquierdo-verde-label',
+          layer: 'regiones-vino',
           opacity: 0
         },
-        {
-          layer: 'derecho-verde-label',
-          opacity: 0
-        },
+
       ],
       onChapterExit: [],
     },
@@ -967,58 +2290,6 @@ var config = {
       },
       onChapterEnter: [
         {
-          layer: 'regiones-vino',
-          opacity: 0
-        },
-        {
-          layer: 'maule-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'maule-comuna-border',
-          opacity: 1
-        },
-        {
-          layer: 'maule',
-          opacity: 1
-        },
-        {
-          layer: 'biobio-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'biobio-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'biobio',
-          opacity: 0
-        },
-        {
-          layer: 'ohiggins-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'ohiggins-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'ohiggins',
-          opacity: 0
-        },
-        {
-          layer: 'metropolitana-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'metropolitana-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'metropolitana',
-          opacity: 0
-        },
-        {
           layer: 'izquierdo-blanco-label',
           opacity: 0
         },
@@ -1027,6 +2298,222 @@ var config = {
           opacity: 0
         },
         {
+          layer: 'arica-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-m',
+          opacity: 1
+        },
+        {
+          layer: 'maule-sr-l',
+          opacity: 1
+        },
+        {
+          layer: 'maule-r-l',
+          opacity: 1
+        },
+        {
+          layer: 'maule-sdo',
+          opacity: 1
+        },
+        {
+          layer: 'maule-z-l',
+          opacity: 1
+        },
+        {
+          layer: 'maule-z-m',
+          opacity: 1
+        },
+        {
+          layer: 'biobio-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-r-l',
+          opacity: 0
+        },
+        {
           layer: 'izquierdo-verde-label',
           opacity: 0
         },
@@ -1035,13 +2522,10 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'izquierdo-verde-label',
+          layer: 'regiones-vino',
           opacity: 0
         },
-        {
-          layer: 'derecho-verde-label',
-          opacity: 0
-        },
+
       ],
       onChapterExit: [],
     },
@@ -1058,70 +2542,6 @@ var config = {
       },
       onChapterEnter: [
         {
-          layer: 'regiones-vino',
-          opacity: 0
-        },
-        {
-          layer: 'biobio-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'biobio-comuna-border',
-          opacity: 1
-        },
-        {
-          layer: 'biobio',
-          opacity: 1
-        },
-        {
-          layer: 'maule-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'maule-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'maule',
-          opacity: 0
-        },
-        {
-          layer: 'ohiggins-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'ohiggins-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'ohiggins',
-          opacity: 0
-        },
-        {
-          layer: 'araucania-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'araucania-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'araucania',
-          opacity: 0
-        },
-        {
-          layer: 'rios-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'rios-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'rios',
-          opacity: 0
-        },
-        {
           layer: 'izquierdo-blanco-label',
           opacity: 0
         },
@@ -1130,6 +2550,222 @@ var config = {
           opacity: 0
         },
         {
+          layer: 'arica-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-m',
+          opacity: 1
+        },
+        {
+          layer: 'biobio-sdo',
+          opacity: 1
+        },
+        {
+          layer: 'biobio-sr-l',
+          opacity: 1
+        },
+        {
+          layer: 'biobio-r-l',
+          opacity: 1
+        },
+        {
+          layer: 'araucania-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-r-l',
+          opacity: 0
+        },
+        {
           layer: 'izquierdo-verde-label',
           opacity: 0
         },
@@ -1138,13 +2774,10 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'izquierdo-verde-label',
+          layer: 'regiones-vino',
           opacity: 0
         },
-        {
-          layer: 'derecho-verde-label',
-          opacity: 0
-        },
+
       ],
       onChapterExit: [],
     },
@@ -1161,70 +2794,6 @@ var config = {
       },
       onChapterEnter: [
         {
-          layer: 'regiones-vino',
-          opacity: 0
-        },
-        {
-          layer: 'araucania-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'araucania-comuna-border',
-          opacity: 1
-        },
-        {
-          layer: 'araucania',
-          opacity: 1
-        },
-        {
-          layer: 'biobio-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'biobio-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'biobio',
-          opacity: 0
-        },
-        {
-          layer: 'maule-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'maule-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'maule',
-          opacity: 0
-        },
-        {
-          layer: 'rios-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'rios-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'rios',
-          opacity: 0
-        },
-        {
-          layer: 'lagos-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'lagos-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'lagos',
-          opacity: 0
-        },
-        {
           layer: 'izquierdo-blanco-label',
           opacity: 0
         },
@@ -1233,6 +2802,222 @@ var config = {
           opacity: 0
         },
         {
+          layer: 'arica-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-m',
+          opacity: 1
+        },
+        {
+          layer: 'araucania-sdo',
+          opacity: 1
+        },
+        {
+          layer: 'araucania-sr-l',
+          opacity: 1
+        },
+        {
+          layer: 'araucania-r-l',
+          opacity: 1
+        },
+        {
+          layer: 'rios-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-r-l',
+          opacity: 0
+        },
+        {
           layer: 'izquierdo-verde-label',
           opacity: 0
         },
@@ -1241,13 +3026,10 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'izquierdo-verde-label',
+          layer: 'regiones-vino',
           opacity: 0
         },
-        {
-          layer: 'derecho-verde-label',
-          opacity: 0
-        },
+
       ],
       onChapterExit: [],
     },
@@ -1264,58 +3046,6 @@ var config = {
       },
       onChapterEnter: [
         {
-          layer: 'regiones-vino',
-          opacity: 0
-        },
-        {
-          layer: 'rios-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'rios-comuna-border',
-          opacity: 1
-        },
-        {
-          layer: 'rios',
-          opacity: 1
-        },
-        {
-          layer: 'lagos-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'lagos-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'lagos',
-          opacity: 0
-        },
-        {
-          layer: 'araucania-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'araucania-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'araucania',
-          opacity: 0
-        },
-        {
-          layer: 'biobio-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'biobio-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'biobio',
-          opacity: 0
-        },
-        {
           layer: 'izquierdo-blanco-label',
           opacity: 0
         },
@@ -1324,6 +3054,222 @@ var config = {
           opacity: 0
         },
         {
+          layer: 'arica-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-m',
+          opacity: 1
+        },
+        {
+          layer: 'rios-sdo',
+          opacity: 1
+        },
+        {
+          layer: 'rios-sr-l',
+          opacity: 1
+        },
+        {
+          layer: 'rios-r-l',
+          opacity: 1
+        },
+        {
+          layer: 'lagos-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-r-l',
+          opacity: 0
+        },
+        {
           layer: 'izquierdo-verde-label',
           opacity: 0
         },
@@ -1332,13 +3278,10 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'izquierdo-verde-label',
+          layer: 'regiones-vino',
           opacity: 0
         },
-        {
-          layer: 'derecho-verde-label',
-          opacity: 0
-        },
+
       ],
       onChapterExit: [],
     },
@@ -1356,46 +3299,6 @@ var config = {
       },
       onChapterEnter: [
         {
-          layer: 'regiones-vino',
-          opacity: 0
-        },
-        {
-          layer: 'lagos-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'lagos-comuna-border',
-          opacity: 1
-        },
-        {
-          layer: 'lagos',
-          opacity: 1
-        },
-        {
-          layer: 'rios-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'rios-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'rios',
-          opacity: 0
-        },
-        {
-          layer: 'araucania-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'araucania-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'araucania',
-          opacity: 0
-        },
-        {
           layer: 'izquierdo-blanco-label',
           opacity: 0
         },
@@ -1404,6 +3307,222 @@ var config = {
           opacity: 0
         },
         {
+          layer: 'arica-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-m',
+          opacity: 1
+        },
+        {
+          layer: 'lagos-sdo',
+          opacity: 1
+        },
+        {
+          layer: 'lagos-sr-l',
+          opacity: 1
+        },
+        {
+          layer: 'lagos-r-l',
+          opacity: 1
+        },
+        {
           layer: 'izquierdo-verde-label',
           opacity: 0
         },
@@ -1412,13 +3531,10 @@ var config = {
           opacity: 0
         },
         {
-          layer: 'izquierdo-verde-label',
+          layer: 'regiones-vino',
           opacity: 0
         },
-        {
-          layer: 'derecho-verde-label',
-          opacity: 0
-        },
+
       ],
       onChapterExit: [],
     },
@@ -1435,179 +3551,235 @@ var config = {
       },
       onChapterEnter: [
         {
-          layer: 'arica',
-          opacity: 0
-        },
-        {
-          layer: 'tarapaca',
-          opacity: 0
-        },
-        {
-          layer: 'tarapaca-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'tarapaca-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'arica-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'arica-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'antofagasta-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'antofagasta-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'antofagasta',
-          opacity: 0
-        },
-        {
-          layer: 'atacama-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'atacama-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'atacama',
-          opacity: 0
-        },
-        {
-          layer: 'coquimbo-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'coquimbo-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'coquimbo',
-          opacity: 0
-        },
-        {
-          layer: 'metropolitana-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'metropolitana-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'metropolitana',
-          opacity: 0
-        },
-        {
-          layer: 'valparaiso-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'valparaiso-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'valparaiso',
-          opacity: 0
-        },
-        {
-          layer: 'maule-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'maule-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'maule',
-          opacity: 0
-        },
-        {
-          layer: 'ohiggins-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'ohiggins-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'ohiggins',
-          opacity: 0
-        },
-        {
-          layer: 'biobio-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'biobio-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'biobio',
-          opacity: 0
-        },
-        {
-          layer: 'maule-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'maule-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'maule',
-          opacity: 0
-        },
-        {
-          layer: 'lagos-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'lagos-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'lagos',
-          opacity: 0
-        },
-        {
-          layer: 'rios-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'rios-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'rios',
-          opacity: 0
-        },
-        {
-          layer: 'araucania-comuna-label',
-          opacity: 0
-        },
-        {
-          layer: 'araucania-comuna-border',
-          opacity: 0
-        },
-        {
-          layer: 'araucania',
-          opacity: 0
-        },
-        {
           layer: 'izquierdo-blanco-label',
           opacity: 1
         },
         {
           layer: 'derecho-blanco-label',
+          opacity: 1
+        },
+        {
+          layer: 'arica-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'arica-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'tarapaca-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'antofagasta-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'atacama-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'coquimbo-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'valparaiso-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'metropolitana-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'ohiggins-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-l',
+          opacity: 0
+        },
+        {
+          layer: 'maule-z-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'biobio-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'araucania-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'rios-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'rios-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-m',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sdo',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-sr-l',
+          opacity: 0
+        },
+        {
+          layer: 'lagos-r-l',
+          opacity: 0
+        },
+        {
+          layer: 'izquierdo-verde-label',
+          opacity: 1
+        },
+        {
+          layer: 'derecho-verde-label',
           opacity: 1
         },
         {
